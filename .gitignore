@@ -1,0 +1,9 @@
+./venv
+venv/*
+.vscode
+
+./tweet-data
+tweet-data/*
+
+./backup
+backup/*
